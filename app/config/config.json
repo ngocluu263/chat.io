@@ -1,6 +1,6 @@
 {
-	"dbURI": "<MongoDBURI>",
-	"sessionSecret": "<RandomString>",
+	"dbURI": "localhost",
+	"sessionSecret": "EQEQEQQEQQ$#$#$#$",
 	"facebook": {
 		"clientID": "<AppID>",
 		"clientSecret": "<AppSecret>",
